@@ -1,0 +1,37 @@
+.divCards{
+    display: flex;
+    margin: 2%;
+    padding: 2%;
+    flex-flow: row wrap;
+    box-shadow: rgba(230, 39, 39, 0.507) 5px 5px, rgba(224, 39, 39, 0.801) 10px 10px, rgba(255, 1, 1, 0.2) 15px 15px, rgba(255, 1, 1, 0.2) 20px 20px, rgba(240, 46, 46, 0.05) 25px 25px;
+}
+
+.card2{
+    box-shadow: rgba(0,0,0,0.16) 0px 3px 6px ,rgba(0,0,0,0.23) 0px 3px 6px;
+    border-radius: 10px;
+    padding: 1%;
+    height: 500px;
+    margin: 5px;
+    width: 19%;
+}
+
+img{
+    border-radius: 9px;
+    width: 90%;
+    margin:auto; 
+    display: block; 
+    height: 250px;
+}
+
+.card2 h5{
+    text-align: center;
+}
+
+.card2 p{
+    text-align: justify;
+}
+
+.card2 button{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
