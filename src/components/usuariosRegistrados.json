@@ -68,5 +68,19 @@
         "estado": "Activo",
         "rol": "Usuario",
         "fechaCreacion": "2024-05-06T20:56:41.589Z"
+    },
+    {
+        "id": 6,
+        "identificacion": "1085717394",
+        "nombres": "Juanita",
+        "apellidos": "Sanchez Hernandez",
+        "email": "js1143787@gmail.com",
+        "direccion": "carrera 17 82-200 la alhambra blosque 13 apto 3A",
+        "telefono": "3014635620",
+        "fechaNacimiento": "2005-09-30",
+        "password": "Juanita24",
+        "estado": "Activo",
+        "rol": "Usuario",
+        "fechaCreacion": "2024-05-20T03:24:33.788Z"
     }
 ]
