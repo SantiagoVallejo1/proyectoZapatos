@@ -24,7 +24,7 @@ app.get("/", (req, res) => {
 
       axios(config)
      .then(result => {
-        res.send(result.data);
+        res.send(result.data.record);
      });
   //res.send("Saludando desde el BackEnd");
 });
